@@ -23,5 +23,5 @@ let svgContainer = new SVG($("#svgcontainer"));
 5. fullScreen ()
 > 全屏
 
-5. exitFullScreen ()
+6. exitFullScreen ()
 > 退出全屏
